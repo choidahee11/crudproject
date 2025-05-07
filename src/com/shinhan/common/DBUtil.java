@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+//주석 추가 
 public class DBUtil {
 	// DB연결
 	public static Connection getConnection() {
